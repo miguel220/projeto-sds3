@@ -1,8 +1,11 @@
+import NavBar from "components/NavBar";
 
 function App() {
   return (
     <div >
-      <p>Olá mundo</p>
+      <h1 className="text-primary">Olá mundo</h1>
+      <NavBar />
+      <NavBar />
     </div>
   );
 }
