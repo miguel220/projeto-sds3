@@ -2,6 +2,8 @@ import Chart from 'react-apexcharts';
 
 function NavBar() {
 
+    
+
     const options = {
         plotOptions: {
             bar: {
